@@ -1,4 +1,3 @@
-# AIP-code
 ## AIP: Adversarial Item Promotion
 
 This repository releases the PyTorch implementation of "AIP attacks" in our paper ["Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start"](http://arxiv.org/abs/2006.01888).
